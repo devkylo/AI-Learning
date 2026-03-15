@@ -1,2 +1,5 @@
 # AI-Learning
-AI-Learning 학습
+
+1. Machine Learning
+
+2. Deep Learning
